@@ -1,4 +1,4 @@
-# WhatDoYouMean
+# WhatDoYouMean [![Build Status](https://travis-ci.org/sirguys/WhatDoYouMean---App.svg?branch=master)](https://travis-ci.org/sirguys/WhatDoYouMean---App)
 
 https://what-do-you-mean.firebaseapp.com/
 
