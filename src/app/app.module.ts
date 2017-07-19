@@ -6,9 +6,6 @@ import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { AngularFireAuthModule } from 'angularfire2/auth';
 
 import { AppComponent } from './app.component';
-import { TestcomponentComponent } from './testcomponent/testcomponent.component';
-import { MusicPlayerComponent } from './music-player/music-player.component';
-
 
 export const firebaseConfig = {
     apiKey: "AIzaSyAb5hCL3lM9Kr505XwFRqyPnGbGXKJrVRg",
@@ -21,9 +18,7 @@ export const firebaseConfig = {
 
 @NgModule({
   declarations: [
-    AppComponent,
-    TestcomponentComponent,
-    MusicPlayerComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
